@@ -1,4 +1,14 @@
 # Basics-of-python
+
+Name : Aanjneya Pankharaj
+
+
+PRN : 25070123002
+
+
+batch : Entc 2025-29
+
+
 ### tool : google Colab
 ### theory : 
 In this experiment, we learned the basics of Python programming as an introduction to Exploratory Data Analysis (EDA). The program starts with simple output statements using print() to understand syntax and formatting, including printing on the same line and using multiple statements. We learned how to declare and use variables, understood that Python is case-sensitive, and assigned multiple values to multiple variables.
